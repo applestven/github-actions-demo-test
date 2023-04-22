@@ -7,7 +7,7 @@
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
   },
-  "homepage": "https://ruanyf.github.io/github-actions-demo",
+  "homepage": "https://applestven.github.io/github-actions-demo-test",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
